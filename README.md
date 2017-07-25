@@ -39,6 +39,7 @@ Os plugins que costumo utilizar são:
 * HTML5
 * jQuery
 * SideBarEnhancements
+* Syntax Highlighting for Sass
 
 ## Melhorias em seu editor
 
